@@ -1,4 +1,4 @@
-# APP de Finanças.
+# Controle seus gastos com este APP de Finanças.
 ## Construído inteiramente em HTML, CSS e Javascript.
 [Teste aqui!](https://joelsongsouzza.github.io/financas/)
 
